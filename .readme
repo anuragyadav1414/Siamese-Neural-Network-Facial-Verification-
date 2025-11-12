@@ -1,0 +1,3 @@
+Download the dataset from here----->https://www.kaggle.com/datasets/jessicali9530/lfw-dataset?resource=download
+
+Try different CNN architechture for improved results (I have trained model from Scratch but you can use some pretrained model that will give you better results) 
